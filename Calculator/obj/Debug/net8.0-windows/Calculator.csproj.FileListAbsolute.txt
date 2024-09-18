@@ -1,0 +1,32 @@
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\PHUONG NGHI\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
+D:\HK1-2\LTM\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+D:\HK1-2\LTM\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+D:\HK1-2\LTM\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+D:\HK1-2\LTM\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+D:\HK1-2\LTM\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+D:\HK1-2\LTM\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
